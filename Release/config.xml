@@ -1,0 +1,8 @@
+<heidi>
+	<dataset_path>C:\Programs\heidi\Data\gist_100000_960</dataset_path>
+	<query_path>C:\Programs\heidi\Data\gistQuery_5_960</query_path>
+	<output_path>C:\Programs\heidi\Data\</output_path>
+	<index_dataset>1</index_dataset>
+	<execute_query>1</execute_query>
+	<epsilon_query>300</epsilon>
+</heidi>
